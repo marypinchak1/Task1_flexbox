@@ -1,0 +1,7 @@
+body {
+  background-color: rgb(144, 205, 209);
+  color: rgb(0, 0, 0);
+}
+.column-30 > div {
+  background-color: #fff;
+}
